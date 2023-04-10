@@ -12,4 +12,4 @@ jobs:
       - name: Auto Tagger
         uses: VegetableGarden/beet@0.0.3
         with:
-          minor-version: 11
+          minor-version: 12
